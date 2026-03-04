@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Last Person Ⅱ",
+  "base_artist": "Shun Nakanishi",
+  "createdAt": "2026-03-04T07:28:39.702827Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Person",
+      "artist": "Jenny Owen Youngs",
+      "has_synced": true,
+      "path": "select/01_Last_Person_Jenny_Owen_Youngs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Person",
+      "artist": "Jukebox The Ghost",
+      "has_synced": false,
+      "path": "select/02_Last_Person_Jukebox_The_Ghost.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Person",
+      "artist": "Jenny Owen Youngs",
+      "has_synced": true,
+      "path": "select/03_Last_Person_Jenny_Owen_Youngs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Person",
+      "artist": "Jukebox The Ghost\u0000Jenny Owen Youngs",
+      "has_synced": false,
+      "path": "select/04_Last_Person_Jukebox_The_Ghost\u0000Jenny_Owen_Youngs.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Would the Last Person to Leave Please Turn Out the Enlightenment?",
+      "artist": "TISM",
+      "has_synced": false,
+      "path": "select/05_Would_the_Last_Person_to_Leave_Please_Turn_Out_the_Enlightenment_TISM.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Person",
+      "artist": "Jenny Owen Youngs/Jukebox The Ghost",
+      "has_synced": false,
+      "path": "select/06_Last_Person_Jenny_Owen_Youngs_Jukebox_The_Ghost.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Person to F--k With",
+      "artist": "DJ Magic Mike",
+      "has_synced": false,
+      "path": "select/07_Last_Person_to_F--k_With_DJ_Magic_Mike.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Would the last person to leave turn out the Enlightenment",
+      "artist": "TISM",
+      "has_synced": false,
+      "path": "select/08_Would_the_last_person_to_leave_turn_out_the_Enlightenment_TISM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Person Ⅱ",
+      "artist": "Shun Nakanishi",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Person_II_Shun_Nakanishi.txt"
+    }
+  ]
+}
